@@ -1,4 +1,1 @@
-qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/config/config.lua (important: add SoundAsset)
-qs-smartphone-pro/server/apps/facetime.lua
-qs-smartphone-pro/server/apps/phone.lua
+Version '1.6.31'
