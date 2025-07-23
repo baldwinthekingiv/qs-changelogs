@@ -1,4 +1,1 @@
-Version 1.6.32
-
-QUASAR ON TOP
-qs-smartphone-pro/fxmanifest.lua
+Version 1.6.31
