@@ -1,24 +1,4 @@
-version "1.6.32"
-
-Version 1.6.32
-
-qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/config/config.lua (importante: añadir SoundAsset)
-qs-smartphone-pro/server/apps/facetime.lua
-qs-smartphone-pro/server/apps/phone.lua
 Version 1.6.32
 
 QUASAR ON TOP
-
 qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/config/config.lua (importante: añadir SoundAsset)
-qs-smartphone-pro/server/apps/facetime.lua
-qs-smartphone-pro/server/apps/phone.lua
-Version 1.6.32
-
-QUASAR ON TOP
-
-qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/config/config.lua (importante: añadir SoundAsset)
-qs-smartphone-pro/server/apps/facetime.lua
-qs-smartphone-pro/server/apps/phone.lua
