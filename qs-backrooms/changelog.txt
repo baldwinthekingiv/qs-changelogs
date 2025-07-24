@@ -1,1 +1,5 @@
-
+Version 1.4.11
+--------UPDATES------------------------
+qs-backrooms/fxmanifest.lua
+--------WHATS NEW------------------------
+New monster added
