@@ -1,8 +1,1 @@
-Version 1.7.39
-
-Changed Files:
-qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/client/main.lua
-qs-smartphone-pro/server/main.lua
-qs-smartphone-pro/html/*
-phone-render/*
+Version 1.6.31
