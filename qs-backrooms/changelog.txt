@@ -1,4 +1,4 @@
-Version 1.2.94
+Version 1.2.96
 --------UPDATES------------------------
 qs-backrooms/fxmanifest.lua
 qs-backrooms/client/main.lua
