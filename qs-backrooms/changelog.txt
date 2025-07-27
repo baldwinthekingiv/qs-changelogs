@@ -1,6 +1,8 @@
 Version 1.2.96
 --------UPDATES------------------------
 qs-backrooms/fxmanifest.lua
+backrooms-props/fxmanifest.lua
+qs-backrooms/config/config.lua
+qs-backrooms/config/shared.lua
 --------WHATS NEW------------------------
-Fixed sound issues related to xsound.
-Added automatic compatibility with mx-surround system.
+Test
