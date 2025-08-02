@@ -1,4 +1,4 @@
-Version 1.2.96
+Version 1.2.97
 --------UPDATES------------------------
 qs-backrooms/fxmanifest.lua
 backrooms-props/fxmanifest.lua
