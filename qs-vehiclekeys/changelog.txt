@@ -4,5 +4,6 @@ qs-vehiclekeys/config/config.lua
 qs-vehiclekeys/config/dispatch.lua
 qs-vehiclekeys/config/hotwire.lua
 qs-vehiclekeys/config/minigame.lua
+qs-vehiclekeys/fxmanifest.lua
 --------WHATS NEW------------------------
-Fixed bugs
+Bugs fixed
