@@ -1,1 +1,8 @@
-Version 1.6.31
+Version 4.0.24
+--------UPDATES------------------------
+qs-vehiclekeys/config/config.lua
+qs-vehiclekeys/config/dispatch.lua
+qs-vehiclekeys/config/hotwire.lua
+qs-vehiclekeys/config/minigame.lua
+--------WHATS NEW------------------------
+Fixed bugs
