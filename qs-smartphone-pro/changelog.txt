@@ -1,4 +1,4 @@
-Version 1.6.32
+Version 1.6.33
 --------UPDATES------------------------
 qs-smartphone-pro/fxmanifest.lua
 qs-smartphone-pro/client/main.lua
