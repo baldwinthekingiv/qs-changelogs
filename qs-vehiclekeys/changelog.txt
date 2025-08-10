@@ -1,8 +1,9 @@
-Version 4.0.25
+Version 4.0.26
 --------UPDATES------------------------
 qs-vehiclekeys/config/config.lua
 qs-vehiclekeys/config/dispatch.lua
 qs-vehiclekeys/config/hotwire.lua
 qs-vehiclekeys/config/minigame.lua
+qs-vehiclekeys/fxmanifest.lua
 --------WHATS NEW------------------------
-Test
+test
