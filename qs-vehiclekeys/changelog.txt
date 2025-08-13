@@ -1,8 +1,5 @@
-Version 4.0.29
+Version 4.0.30
 --------UPDATES------------------------
-qs-vehiclekeys/fxmanifest.lua
-qs-vehiclekeys/client/main.lua
-qs-vehiclekeys/client/modules/hotwire.lua
-qs-vehiclekeys/server/custom/framework/qbx.lua
+test
 --------WHATS NEW------------------------
-Test
+test
