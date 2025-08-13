@@ -1,3 +1,8 @@
+Version 1.7.67
+--------UPDATES------------------------
+
+--------WHATS NEW------------------------
+
 Version 1.6.33
 --------UPDATES------------------------
 qs-smartphone-pro/fxmanifest.lua
