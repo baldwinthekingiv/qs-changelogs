@@ -1,17 +1,5 @@
-Version 1.7.68
+Version 1.7.69
 --------UPDATES------------------------
-
+test
 --------WHATS NEW------------------------
-
-Version 1.7.67
---------UPDATES------------------------
-
---------WHATS NEW------------------------
-
-Version 1.6.33
---------UPDATES------------------------
-qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/client/main.lua
-qs-smartphone-pro/server/main.lua
---------WHATS NEW------------------------
-WANSTE ON TOP KING
+test
