@@ -1,1 +1,13 @@
-Version 1.1.61
+Version 1.1.66
+--------UPDATES------------------------
+- `qs-inventory/fxmanifest.lua`
+- `qs-inventory/config/customWeapons.lua`
+- `qs-inventory/shared/functions.lua`
+- `qs-inventory/client/custom/framework/qb.lua`
+- `qs-inventory/client/modules/weapons.lua`
+- `qs-inventory/server/custom/framework/qb.lua`
+--------WHATS NEW------------------------
+- Fixed issues with missions when the skill tree system was disabled.
+- Resolved hunger and thirst problems with QBCore.
+- Corrected configuration for `Config.UseItemInVehicle`.
+- Added a simpler configuration file for custom weapons: `config/customWeapons.lua`.
