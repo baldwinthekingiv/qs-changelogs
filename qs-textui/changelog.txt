@@ -1,1 +1,6 @@
-Version 1.0.22
+Version 1.0.23
+--------UPDATES------------------------
+qs-textui/fxmanifest.lua
+qs-textui/html/index.js
+--------WHATS NEW------------------------
+Fixed issues with persistent interface showing up when starting the asset.
