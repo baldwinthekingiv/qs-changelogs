@@ -1,1 +1,7 @@
-Version 1.0.62
+Version 1.0.64
+--------UPDATES------------------------
+qs-appearance/fxmanifest.lua
+qs-appearance/web/*
+--------WHATS NEW------------------------
+Added option to give clothing to PEDs using the clothing system.
+Improved several internal systems for better stability and performance.
