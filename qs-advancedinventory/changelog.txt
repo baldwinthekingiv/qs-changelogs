@@ -1,13 +1,12 @@
-Version 1.1.71
+Version 1.1.73
 --------UPDATES------------------------
-- `qs-inventory/fxmanifest.lua`
-- `qs-inventory/config/customWeapons.lua`
-- `qs-inventory/shared/functions.lua`
-- `qs-inventory/client/custom/framework/qb.lua`
-- `qs-inventory/client/modules/weapons.lua`
-- `qs-inventory/server/custom/framework/qb.lua`
+qs-inventory/fxmanifest.lua
+qs-inventory/shared/*
+qs-inventory/client/*
+qs-inventory/server/*
+qs-inventory/html/images/*
+qs-inventory/html/js/app.js
 --------WHATS NEW------------------------
-- Fixed issues with missions when the skill tree system was disabled.
-- Resolved hunger and thirst problems with QBCore.
-- Corrected configuration for `Config.UseItemInVehicle`.
-- Added a simpler configuration file for custom weapons: `config/customWeapons.lua`.
+Fixed issues when swapping items where their colors temporarily disappeared.
+Added missing items from various Quasar Store scripts.
+Introduced major code improvements and optimizations, especially beneficial for large servers.
