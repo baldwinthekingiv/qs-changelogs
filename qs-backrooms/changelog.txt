@@ -1,8 +1,7 @@
-Version 1.2.95
+Version 1.2.96
 --------UPDATES------------------------
 qs-backrooms/fxmanifest.lua
-backrooms-props/fxmanifest.lua
 qs-backrooms/config/config.lua
-qs-backrooms/config/shared.lua
+qs-backrooms/client/custom/ambulancejob/qs-hospital-creator.lua
 --------WHATS NEW------------------------
-Test
+Added automatic configuration support for qs-hospital-creator.
