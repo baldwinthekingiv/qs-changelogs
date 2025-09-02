@@ -1,1 +1,7 @@
-Version 1.0.71
+Version 1.0.72
+--------UPDATES------------------------
+qs-apartments/fxmanifest.lua
+qs-apartments/client/custom/framework/esx.lua
+qs-apartments/client/custom/framework/qb.lua
+--------WHATS NEW------------------------
+Added automation of qs-interface for notifications.
