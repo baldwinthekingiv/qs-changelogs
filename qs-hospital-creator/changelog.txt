@@ -1,1 +1,15 @@
-
+Version 1.0.11
+--------UPDATES------------------------
+All Files
+--------WHATS NEW------------------------
+Added configuration to show or hide IP in webhooks.
+Added option to include a FiveManage token to receive images in the death webhook.
+Introduced compatibility with insurance systems (currently supports m-Insurance).
+Added new configurations for insurance integration.
+Replaced the image used in webhook logs.
+Added new language entries for the systems introduced.
+Fixed issues with the garage system in QBCore.
+Added several new configurations — ⚠️ you must update your config file.
+Improved the internal keys system for smoother performance.
+Removed a broken "neck" option since it was not pre-configured.
+Fixed general issues with stretchers.
