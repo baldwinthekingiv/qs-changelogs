@@ -1,1 +1,12 @@
-Version 2.0.6
+Version 2.1.0
+--------UPDATES------------------------
+All Files
+--------WHATS NEW------------------------
+Added Qs Text UI marker type support (if not available, it will fallback to default 3D text).
+Migrated settings from config.lua to the in-game menu — these can also be edited in config.json.
+Real-time configuration changes: you can now toggle debug, adjust 3D text rendering (font, size, etc.), arcade impound, insta arrest, anti-AFK farming, and more directly in-game.
+Added new translations and updated some existing translations for better localization.
+Fixed random issues with the Boss Menu.
+Corrected translation errors and inconsistencies.
+Removed the default development config.json (the script will now generate a new one with default data at startup).
+Fixed random issues with QS Matrix.
