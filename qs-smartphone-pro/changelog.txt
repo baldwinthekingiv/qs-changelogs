@@ -1,5 +1,8 @@
-Version 1.7.73
+Version 1.7.76
 --------UPDATES------------------------
-test
+qs-smartphone-pro/fxmanifest.lua
+qs-smartphone-pro/config/functions.lua
+qs-smartphone-pro/server/main.lua
+qs-smartphone-pro/server/apps/*
 --------WHATS NEW------------------------
-test
+Applied major code optimizations for significant performance improvements.
