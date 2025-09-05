@@ -1,1 +1,7 @@
-Version 4.0.42
+Version 4.0.43
+--------UPDATES------------------------
+qs-advancedgarages/fxmanifest.lua
+qs-advancedgarages/server/main.lua
+qs-advancedgarages/server/modules/sync.lua
+--------WHATS NEW------------------------
+Fixed an issue where impounded vehicles were incorrectly retrieved as out vehicles.
