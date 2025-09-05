@@ -1,13 +1,11 @@
-Version 3.4.64
+Version 3.4.66
 --------UPDATES------------------------
 qs-inventory/fxmanifest.lua
-qs-inventory/shared/*
-qs-inventory/client/*
-qs-inventory/server/*
-qs-inventory/html/images/*
-qs-inventory/html/js/app.js
+qs-inventory/config/config.lua
+qs-inventory/client/custom/misc/commands.lua
+qs-inventory/client/modules/internal.lua
+qs-inventory/server/custom/misc/OpenInventory.lua
+qs-inventory/server/main.lua
 --------WHATS NEW------------------------
-Fixed issues when swapping items where their colors temporarily disappeared.
-Added missing items from various Quasar Store scripts.
-Applied general code optimizations for stability.
-Improved compact mode system for smoother performance.
+Added the option to create shops server-side to prevent exploits using Config.DisableShopGenerationOnClient.
+Removed certain events that could negatively impact the asset’s optimization.
