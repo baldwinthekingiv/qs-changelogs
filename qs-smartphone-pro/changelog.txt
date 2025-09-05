@@ -1,8 +1,13 @@
-Version 1.7.76
+Version 1.7.76.1
 --------UPDATES------------------------
 qs-smartphone-pro/fxmanifest.lua
+qs-smartphone-pro/config/config.lua
 qs-smartphone-pro/config/functions.lua
 qs-smartphone-pro/server/main.lua
 qs-smartphone-pro/server/apps/*
+phone-props/*
 --------WHATS NEW------------------------
 Applied major code optimizations for significant performance improvements.
+Fixed issues with props (they contained disallowed or brand-similar marks).
+Edited and updated props configuration.
+Fixed issues when using the phone camera.
