@@ -1,1 +1,11 @@
-Version 1.2.66
+Version 1.2.68
+--------UPDATES------------------------
+qs-diamondcasino/fxmanifest.lua
+qs-diamondcasino/config/*
+qs-diamondcasino/client/modules/*
+qs-diamondcasino/server/modules/*
+qs-diamondcasino/server/main.lua
+--------WHATS NEW------------------------
+Applied several logic changes to improve gameplay balance and difficulty.
+Fixed two major exploits related to chip earnings.
+Restructured parts of the code to make each section clearer and easier to understand for customers.
