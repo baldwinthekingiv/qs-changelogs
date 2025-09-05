@@ -1,1 +1,12 @@
-Version 1.1.44
+Version 1.1.46
+--------UPDATES------------------------
+qs-tradingcards/fxmanifest.lua
+qs-inventory/config/config.lua
+qs-tradingcards/client/custom/inventory/tgiann.lua
+qs-tradingcards/server/custom/inventory/tgiann.lua
+qs-tradingcards/html/*
+--------WHATS NEW------------------------
+Improved the overall visual system for a better experience.
+Fixed issues with poorly written configurations.
+Added new internal functions to facilitate the future development of this asset.
+Added direct compatibility with tgiann-inventory.
