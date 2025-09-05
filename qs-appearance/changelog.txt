@@ -1,7 +1,12 @@
-Version 1.0.64
+Version 1.0.66
 --------UPDATES------------------------
 qs-appearance/fxmanifest.lua
+qs-appearance/config/main.lua
+qs-appearance/client/modules/*
 qs-appearance/web/*
+qs-appearance/game/util.lua
+qs-appearance/server/migrate/rcore.lua
 --------WHATS NEW------------------------
-Added option to give clothing to PEDs using the clothing system.
-Improved several internal systems for better stability and performance.
+Improved the overall system functionality for better stability.
+Enhanced menu performance, increasing speed and fluidity.
+Updated configurations to align with the newly added improvements.
