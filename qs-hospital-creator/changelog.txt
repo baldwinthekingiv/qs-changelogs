@@ -1,15 +1,11 @@
-Version 1.0.11
+Version 1.0.13
 --------UPDATES------------------------
-All Files
+qs-hospital-creator/fxmanifest.lua
+qs-hospital-creator/config/main.lua
+qs-hospital-creator/custom/client.lua
+qs-hospital-creator/client/custom/debug.lua
+qs-hospital-creator/client/modules/injury.lua
 --------WHATS NEW------------------------
-Added configuration to show or hide IP in webhooks.
-Added option to include a FiveManage token to receive images in the death webhook.
-Introduced compatibility with insurance systems (currently supports m-Insurance).
-Added new configurations for insurance integration.
-Replaced the image used in webhook logs.
-Added new language entries for the systems introduced.
-Fixed issues with the garage system in QBCore.
-Added several new configurations — ⚠️ you must update your config file.
-Improved the internal keys system for smoother performance.
-Removed a broken "neck" option since it was not pre-configured.
-Fixed general issues with stretchers.
+Added compatibility with qs-billing (configurable via /custom/client.lua and /config/main.lua).
+Fixed an issue with bandages when using certain configurations.
+Adjusted and lowered the configuration for Config.BandageItem.
