@@ -1,5 +1,7 @@
-Version 1.2.1
+Version 1.2.11
 --------UPDATES------------------------
-efef
+qs-adminmenu/fxmanifest.lua
+qs-adminmenu/server/*
 --------WHATS NEW------------------------
-efef
+Added more custom Discord logic in open-source file server/custom/bot.lua.
+Fixed ServerConfig not found error.
