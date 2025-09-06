@@ -1,1 +1,9 @@
-Version 1.0.81
+Version 1.0.87
+--------UPDATES------------------------
+All Files
+--------WHATS NEW------------------------
+Fixed rcore_clothing event integration.,
+Redesigned the menu modal — cleaner and more user-friendly.,
+Added missing price locale and improved wording for general.payment.,
+Fixed an issue where only player coordinates were cleared after re-entering if the previous motel was deleted — the last motel reference now clears correctly as well.,
+Removed the self-management world location. Room interactions are now accessed via the reception menu, improving discoverability and UX.,
