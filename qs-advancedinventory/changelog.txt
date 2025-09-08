@@ -1,9 +1,7 @@
-Version 1.1.76
+Version 1.2.81
 --------UPDATES------------------------
-qs-inventory/fxmanifest.lua
-qs-inventory/client/modules/internal.lua
-qs-inventory/server/*
-qs-inventory/html/*
+All Files
 --------WHATS NEW------------------------
-Added extreme optimization when keeping the inventory open for better performance.
-Fixed an issue that broke the NUI visuals.
+Introduced a completely new Throw system, now usable both on foot and inside vehicles.
+Added a new Placeable Items system, allowing players to place objects on the ground.
+Implemented functionality for Placeable Items in vehicles — they attach to the car and will fall off if the vehicle flips.
