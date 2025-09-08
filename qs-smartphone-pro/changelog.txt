@@ -1,13 +1,8 @@
-Version 1.7.76.1
+Version 1.7.77
 --------UPDATES------------------------
 qs-smartphone-pro/fxmanifest.lua
-qs-smartphone-pro/config/config.lua
-qs-smartphone-pro/config/functions.lua
 qs-smartphone-pro/server/main.lua
-qs-smartphone-pro/server/apps/*
-phone-props/*
+qs-smartphone-pro/server/apps/whatsapp.lua
+qs-smartphone-pro/html/*
 --------WHATS NEW------------------------
-Applied major code optimizations for significant performance improvements.
-Fixed issues with props (they contained disallowed or brand-similar marks).
-Edited and updated props configuration.
-Fixed issues when using the phone camera.
+Fixed several issues with the WhatsApp app.
