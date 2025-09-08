@@ -1,11 +1,16 @@
-Version 1.0.16
+Version 1.0.21
 --------UPDATES------------------------
 qs-hospital-creator/fxmanifest.lua
-qs-hospital-creator/config/main.lua
-qs-hospital-creator/client/modules/laststand.lua
+qs-hospital-creator/shared/functions.lua
 qs-hospital-creator/locales/*
-qs-hospital-creator/web/*
+qs-hospital-creator/client/custom/debug.lua
+qs-hospital-creator/client/custom/target/main.lua
+qs-hospital-creator/client/modules/hospital.lua
+qs-hospital-creator/client/modules/staff.lua
+qs-hospital-creator/client/custom/inventory/ox_inventory.lua
+qs-hospital-creator/server/custom/inventory/ox.lua
 --------WHATS NEW------------------------
-Fixed issues with the respawnPoint system.
-Added new configuration Config.Drowning.
-Resolved several general issues reported during the week.
+Fixed random console errors.
+Added target support for garages and medbag.
+Removed unused locales for cleaner configuration.
+Added shop support when using ox_inventory.
