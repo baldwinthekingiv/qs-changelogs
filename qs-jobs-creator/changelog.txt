@@ -1,12 +1,13 @@
-Version 2.1.0
+Version 2.1.1
 --------UPDATES------------------------
 All Files
 --------WHATS NEW------------------------
-Added Qs Text UI marker type support (if not available, it will fallback to default 3D text).
-Migrated settings from config.lua to the in-game menu — these can also be edited in config.json.
-Real-time configuration changes: you can now toggle debug, adjust 3D text rendering (font, size, etc.), arcade impound, insta arrest, anti-AFK farming, and more directly in-game.
-Added new translations and updated some existing translations for better localization.
-Fixed random issues with the Boss Menu.
-Corrected translation errors and inconsistencies.
-Removed the default development config.json (the script will now generate a new one with default data at startup).
-Fixed random issues with QS Matrix.
+Added new translations and fixed existing ones.
+Migrated more configurations from config.lua to the interface and config.json.
+(Changing these configs in the interface no longer requires a server restart).
+Fixed auto installation on framework.
+Fixed several interface issues.
+Improved the live config interface for smoother use.
+Fixed resource usage — script now idles at 0.0 resmon with no markers nearby and ~0.3/0.4 resmon when markers are nearby.
+Fixed okokBanking integration to correctly retrieve society money.
+Fixed Owned Garage issues.
