@@ -1,12 +1,9 @@
-Version 1.1.75
+Version 1.1.76
 --------UPDATES------------------------
 qs-inventory/fxmanifest.lua
-qs-inventory/config/config.lua
-qs-inventory/client/custom/misc/commands.lua
 qs-inventory/client/modules/internal.lua
-qs-inventory/server/custom/misc/OpenInventory.lua
-qs-inventory/server/main.lua
+qs-inventory/server/*
 qs-inventory/html/*
 --------WHATS NEW------------------------
-Added the option to create shops server-side to prevent exploits using Config.DisableShopGenerationOnClient.
-Removed certain events that could negatively impact the asset’s optimization.
+Added extreme optimization when keeping the inventory open for better performance.
+Fixed an issue that broke the NUI visuals.
