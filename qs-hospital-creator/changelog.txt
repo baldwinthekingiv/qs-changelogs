@@ -1,16 +1,12 @@
-Version 1.0.21
+Version 1.0.24
 --------UPDATES------------------------
 qs-hospital-creator/fxmanifest.lua
-qs-hospital-creator/shared/functions.lua
 qs-hospital-creator/locales/*
-qs-hospital-creator/client/custom/debug.lua
-qs-hospital-creator/client/custom/target/main.lua
-qs-hospital-creator/client/modules/hospital.lua
-qs-hospital-creator/client/modules/staff.lua
-qs-hospital-creator/client/custom/inventory/ox_inventory.lua
-qs-hospital-creator/server/custom/inventory/ox.lua
+qs-hospital-creator/server/main.lua
+qs-hospital-creator/server/modules/staff.lua
+qs-hospital-creator/client/modules/creator.lua
+qs-hospital-creator/web/*
 --------WHATS NEW------------------------
-Fixed random console errors.
-Added target support for garages and medbag.
-Removed unused locales for cleaner configuration.
-Added shop support when using ox_inventory.
+Added open source commands in server/modules/commands.lua.
+Fixed disablemovements not defined error.
+Resolved issues with zone points.
