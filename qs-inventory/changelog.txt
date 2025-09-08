@@ -1,11 +1,7 @@
-Version 3.4.66
+Version 3.5.72
 --------UPDATES------------------------
-qs-inventory/fxmanifest.lua
-qs-inventory/config/config.lua
-qs-inventory/client/custom/misc/commands.lua
-qs-inventory/client/modules/internal.lua
-qs-inventory/server/custom/misc/OpenInventory.lua
-qs-inventory/server/main.lua
+All Files
 --------WHATS NEW------------------------
-Added the option to create shops server-side to prevent exploits using Config.DisableShopGenerationOnClient.
-Removed certain events that could negatively impact the asset’s optimization.
+Introduced a completely new Throw system, now usable both on foot and inside vehicles.,
+Added a new Placeable Items system, allowing players to place objects on the ground.,
+Implemented functionality for Placeable Items in vehicles — they attach to the car and will fall off if the vehicle flips.,
