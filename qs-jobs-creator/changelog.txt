@@ -1,13 +1,11 @@
-Version 2.1.1
+Version 2.1.2
 --------UPDATES------------------------
-All Files
+qs-jobs-creator/fxmanifest.lua
+qs-jobs-creator/shared/utils.lua
+qs-jobs-creator/locales/*.json (all)
+qs-jobs-creator/server/custom/society_banking/qs-banking.lua
 --------WHATS NEW------------------------
-Added new translations and fixed existing ones.
-Migrated more configurations from config.lua to the interface and config.json.
-(Changing these configs in the interface no longer requires a server restart).
-Fixed auto installation on framework.
-Fixed several interface issues.
-Improved the live config interface for smoother use.
-Fixed resource usage — script now idles at 0.0 resmon with no markers nearby and ~0.3/0.4 resmon when markers are nearby.
-Fixed okokBanking integration to correctly retrieve society money.
-Fixed Owned Garage issues.
+Added new translations: Arabic, Chinese Traditional, French, Japanese, Polish (99%), plus Russian (93%) and Portuguese (94%).
+Fixed issues with marker rendering caused by the last update to live config refresh logic.
+Fixed Save Config Translation errors.
+Fixed QS Banking integration for society systems.
