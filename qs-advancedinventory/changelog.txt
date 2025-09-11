@@ -1,7 +1,15 @@
-Version 1.2.81
+Version 1.2.85
 --------UPDATES------------------------
-All Files
+qs-inventory/fxmanifest.lua
+qs-inventory/config/config.lua
+qs-inventory/client/main.lua
+qs-inventory/client/modules/internal.lua
+qs-inventory/server/custom/misc/AddItem.lua
+qs-inventory/server/custom/misc/RemoveItem.lua
+qs-inventory/server/custom/provider/qb-inventory.lua
+qs-inventory/server/modules/weapons.lua
 --------WHATS NEW------------------------
-Introduced a completely new Throw system, now usable both on foot and inside vehicles.
-Added a new Placeable Items system, allowing players to place objects on the ground.
-Implemented functionality for Placeable Items in vehicles — they attach to the car and will fall off if the vehicle flips.
+Removed multiple test commands that were left in the script.
+Optimized several internal functions for better performance.
+Fixed recurring issues with the cash item.
+Fixed pma-voice hearing issue with advanced inventory.
