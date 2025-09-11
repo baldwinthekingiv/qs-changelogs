@@ -1,7 +1,10 @@
-Version 3.5.72
+Version 3.5.74
 --------UPDATES------------------------
-All Files
+qs-inventory/fxmanifest.lua
+qs-inventory/server/main.lua
+qs-inventory/server/modules/weapons.lua
+qs-inventory/server/custom/misc/AddItem.lua
+qs-shops/server/main.lua
 --------WHATS NEW------------------------
-Introduced a completely new Throw system, now usable both on foot and inside vehicles.,
-Added a new Placeable Items system, allowing players to place objects on the ground.,
-Implemented functionality for Placeable Items in vehicles — they attach to the car and will fall off if the vehicle flips.,
+Removed multiple test commands that were left in the script.
+Fixed recurring issues with the cash item.
